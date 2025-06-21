@@ -419,6 +419,7 @@ flex-direction: column;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+  overflow-x: hidden;
 
 }
 
@@ -618,6 +619,7 @@ footer .con .box div i{
     justify-content: space-between;
     align-items: center;
     margin-bottom: 50px;
+      overflow-x: hidden;
 }
 .time .con .box .left{
     width: 35%;
